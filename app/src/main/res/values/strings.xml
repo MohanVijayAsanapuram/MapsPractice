@@ -103,4 +103,7 @@
     <string name="main_activity_desciption"> Main Activity Description</string>
     <string name="pick_image_intent_chooser_title">Select source</string>
     <string name="title_activity_loadmore">LoadmoreActivity</string>
+    <string name="facebook_app_id">192245641184581</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="button_login_facebook">Facebook Login</string>
 </resources>
